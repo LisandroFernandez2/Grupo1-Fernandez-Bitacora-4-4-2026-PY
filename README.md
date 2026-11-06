@@ -1,2 +1,2 @@
 # Grupo1-Fernandez-Bitacora-4-4-2026
-Bitácoras de mi trabajo en el proyecto final de la materia proyecto informático 1
+Hoy empece a trabajar con la carpeta de campo. Le añadi la caratula, las tecnologias utilizadas, explicacion del circuito, etc.
